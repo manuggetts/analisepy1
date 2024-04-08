@@ -1,4 +1,4 @@
-# Análise de dados de matérias-primas agrícolas
+# 📊 Análise de dados de matérias-primas agrícolas
 
 Este é um projeto de análise de dados de matérias-primas agrícolas utilizando Python e bibliotecas como Pandas, NumPy, Matplotlib e Seaborn.
 
