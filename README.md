@@ -54,7 +54,7 @@ Obrigada por acompanhar esta análise!
 
 Contribuições são bem-vindas! Se você encontrar algum problema nos dados ou tiver sugestões para melhorar as análises ou a visualização dos resultados, fique à vontade para abrir uma [issue](https://github.com/manuggetts/analisepy1/issues) ou enviar um [pull request](https://github.com/manuggetts/analisepy1/pulls). 
 
-Obrigado por ajudar a melhorar este projeto!
+Obrigada por ajudar a melhorar este projeto!
 
 # Fonte de dados
 
