@@ -2,6 +2,8 @@
 
 Este é um projeto de análise de dados de matérias-primas agrícolas utilizando Python e bibliotecas como Pandas, NumPy, Matplotlib e Seaborn.
 
+*OBS: Você pode acessar este relatório [aqui](https://colab.research.google.com/drive/19XpaHZQE0B6YPaRcsX5UUiX0bfuNgWeY?usp=sharing).*
+
 ## Limpeza dos Dados
 
 Antes de realizar as análises, os seguintes passos foram executados para limpar os dados:
